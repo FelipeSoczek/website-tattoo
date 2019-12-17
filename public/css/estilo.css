@@ -1,0 +1,41 @@
+#home {
+
+	background: #E8E8E8;
+
+}
+
+#servicos {
+
+	background: #E8E8E8;
+
+}
+
+#img{
+
+	text-align: center;
+
+	width: 29%;
+	height: 150px;
+	display: inline-block;
+	
+}
+
+#estilos {
+
+	background: #363636;
+	
+}
+
+#tamanho {
+	width: 800px;
+	height: 800px;
+	margin-left: 20%;
+}
+
+#carouselExampleIndicators {
+	background: #363636;
+}
+
+#image {
+	margin-top: 15%;
+}
